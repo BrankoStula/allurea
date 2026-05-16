@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.000" height="34.641" viewBox="0 0 60.000 34.641">
+  <defs><clipPath id="c"><rect width="60.000" height="34.641"/></clipPath></defs>
+  <g clip-path="url(#c)">
+  <path d="M 20.000,0.000 L 10.000,17.321 L -10.000,17.321 L -20.000,0.000 L -10.000,-17.321 L 10.000,-17.321 Z" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,0.000 L 10.000,17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,0.000 L -20.000,0.000" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,0.000 L 10.000,-17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 80.000,0.000 L 70.000,17.321 L 50.000,17.321 L 40.000,0.000 L 50.000,-17.321 L 70.000,-17.321 Z" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,0.000 L 70.000,17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,0.000 L 40.000,0.000" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,0.000 L 70.000,-17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 20.000,34.641 L 10.000,51.962 L -10.000,51.962 L -20.000,34.641 L -10.000,17.321 L 10.000,17.321 Z" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,34.641 L 10.000,51.962" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,34.641 L -20.000,34.641" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 0.000,34.641 L 10.000,17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 80.000,34.641 L 70.000,51.962 L 50.000,51.962 L 40.000,34.641 L 50.000,17.321 L 70.000,17.321 Z" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,34.641 L 70.000,51.962" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,34.641 L 40.000,34.641" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.000,34.641 L 70.000,17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 50.000,17.321 L 40.000,34.641 L 20.000,34.641 L 10.000,17.321 L 20.000,0.000 L 40.000,0.000 Z" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 30.000,17.321 L 40.000,34.641" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 30.000,17.321 L 10.000,17.321" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 30.000,17.321 L 40.000,0.000" fill="none" stroke="#c0c0c0" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

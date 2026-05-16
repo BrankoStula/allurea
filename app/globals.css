@@ -1,0 +1,236 @@
+@import "tailwindcss";
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   TAILWIND v4 THEME — Brand tokens become utility classes automatically.
+   e.g. --color-brand-green → bg-brand-green, text-brand-green, border-brand-green
+   e.g. --font-display       → font-display
+   NOTE: Colors sourced from Allurea Brand Identity guide (info/AZURE_BRAND.jpeg).
+         Gold #C9A55A · Navy #08204D · Sand #F5F3EE · Charcoal #28282B.
+──────────────────────────────────────────────────────────────────────────────── */
+@theme {
+  /* ── Colors ─────────────────────────────────────────────────────────────── */
+
+  /* Gold — Brushed Gold Accent. Logo, accent lines, labels on dark bg, CTAs. */
+  --color-brand-green:    #C9A55A;
+  --color-brand-green-dk: #9A7030; /* hover state */
+
+  /* Dark — Azure Deep Midnight. Dark sections, hero, footer backgrounds. */
+  --color-brand-black:    #001b51;
+
+  /* Backgrounds */
+  --color-cream:          #F5F3EE; /* Soft Sand White — primary page background */
+  --color-surface:        #F0EDE8; /* card / panel surface */
+
+  /* Accent */
+  --color-sage:           #C9A55A; /* matches gold accent */
+
+  /* Grays */
+  --color-gray-lt:        #D4D4D4; /* borders, dividers */
+  --color-gray-md:        #A8A8A8; /* secondary text, captions */
+
+  /* ── Typography ──────────────────────────────────────────────────────────── */
+  /* Mapped from Next.js font CSS variables injected at the <html> element.
+     Replace var() references when the confirmed brand fonts are loaded.      */
+  --font-display: var(--font-cormorant-display); /* condensed serif — headings */
+  --font-body:    var(--font-inter);             /* geometric sans — body/UI   */
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   @theme inline — Next.js font variables need `inline` so Tailwind resolves
+   the CSS custom property at the point of use rather than extracting a static
+   token (the value is only known at runtime after font injection).
+──────────────────────────────────────────────────────────────────────────────── */
+@theme inline {
+  --font-display: var(--font-playfair);
+  --font-body:    var(--font-dm-sans);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   RAW CSS CUSTOM PROPERTIES — These are design tokens consumed via var() in
+   component styles. They do NOT generate Tailwind utility classes.
+──────────────────────────────────────────────────────────────────────────────── */
+:root {
+  /* ── Semantic color aliases ─────────────────────────────────────────────── */
+  --color-text-primary:   #28282B;
+  --color-text-secondary: #A8A8A8;
+  --color-text-on-green:  #FFFFFF;
+  --color-text-on-dark:   #F5F3EE;
+  --color-cta-bg:         #C9A55A;
+  --color-cta-hover:      #9A7030;
+  --color-border:         #D4D4D4;
+
+  /* ── Type scale ─────────────────────────────────────────────────────────── */
+  --text-hero:    clamp(3.5rem, 8vw, 8rem);   /* homepage hero headline       */
+  --text-h1:      clamp(2.5rem, 5vw, 5rem);
+  --text-h2:      clamp(1.75rem, 3vw, 3rem);
+  --text-h3:      clamp(1.25rem, 2vw, 2rem);
+  --text-body-lg: 1.125rem;   /* 18px — primary body */
+  --text-body:    1rem;       /* 16px */
+  --text-sm:      0.875rem;   /* 14px — captions, labels */
+  --text-xs:      0.75rem;    /* 12px — legal, micro-copy */
+
+  /* ── Letter spacing ─────────────────────────────────────────────────────── */
+  --tracking-hero:    0.02em;
+  --tracking-heading: 0.04em;
+  --tracking-caps:    0.15em; /* small-caps labels: "BALI, INDONESIA" */
+
+  /* ── Spacing scale ──────────────────────────────────────────────────────── */
+  --space-1:  0.25rem;   /*   4px */
+  --space-2:  0.5rem;    /*   8px */
+  --space-3:  0.75rem;   /*  12px */
+  --space-4:  1rem;      /*  16px */
+  --space-6:  1.5rem;    /*  24px */
+  --space-8:  2rem;      /*  32px */
+  --space-12: 3rem;      /*  48px */
+  --space-16: 4rem;      /*  64px */
+  --space-24: 6rem;      /*  96px */
+  --space-32: 8rem;      /* 128px */
+
+  /* ── Container widths ───────────────────────────────────────────────────── */
+  --container-max:     1440px;
+  --container-wide:    1280px;
+  --container-default: 1100px;
+  --container-narrow:   720px;
+
+  /* ── Section rhythm ─────────────────────────────────────────────────────── */
+  --section-py: var(--space-24);
+  --section-px: var(--space-8);
+
+  /* ── Border radius ──────────────────────────────────────────────────────── */
+  --radius-sm:  4px;
+  --radius-md:  8px;
+  --radius-lg:  16px;
+  --radius-xl:  24px;
+
+  /* ── Transitions ────────────────────────────────────────────────────────── */
+  --transition-fast:    150ms ease;
+  --transition-default: 300ms ease;
+  --transition-slow:    600ms cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* ── Brand decoration ───────────────────────────────────────────────────── */
+  /* Triangle tessellation opacity levels — applied as CSS background overlays */
+  --pattern-opacity-dark:  0.12;
+  --pattern-opacity-light: 0.06;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   BASE STYLES
+──────────────────────────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F5F3EE;
+  color: #182945;
+  font-family: var(--font-inter, 'Inter', Helvetica, sans-serif);
+  font-size: var(--text-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-cormorant-display, 'Cormorant Display', Georgia, serif);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: var(--tracking-heading);
+}
+
+/* Utility: full-bleed section wrapper */
+.section-wrapper {
+  width: 100%;
+  max-width: var(--container-default);
+  margin-inline: auto;
+  padding-block: var(--section-py);
+  padding-inline: var(--section-px);
+}
+
+/* Utility: caps label (e.g. "BALI, INDONESIA" treatment) */
+.label-caps {
+  font-family: var(--font-cormorant-display, Georgia, serif);
+  font-size: var(--text-xs);
+  font-weight: 500;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   THEME — Ivory (light). bg-brand-black = soft white, cream = dark navy.
+──────────────────────────────────────────────────────────────────────────────── */
+:root {
+  --color-brand-black:     #F8F8F6;
+  --color-cream:           #0d1833;
+  --surface-pattern:       none;
+  --surface-pattern-size:  cover;
+  --surface-pattern-blend: normal;
+}
+
+/*
+  background-blend-mode blends the background-image with background-color
+  on the SAME element only. Child images/videos/iframes are never affected.
+*/
+/* Apply the transparent SVG pattern from the public folder */
+.bg-brand-black, body {
+  /* Link directly to the file in your public folder */
+  background-image: url('/hexagonal_pattern_2.svg');
+  
+  /* Make it tile infinitely */
+  background-repeat: repeat; 
+  
+  /* Keep it locked in place while scrolling */
+  background-attachment: fixed;
+  
+  /* Change this to make the pattern bigger or smaller */
+  background-size: 200px; 
+  
+  /* No messy blend modes needed since the SVG background is already transparent! */
+  background-blend-mode: normal; 
+}
+
+/* Placeholder section baseline — removed in production when real components land */
+[data-placeholder] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  border: 2px dashed #D4D4D4;
+  background-color: #FAFAF7;
+  padding: var(--space-12);
+  text-align: center;
+  gap: var(--space-4);
+}
+
+[data-placeholder] h2 {
+  font-size: var(--text-h2);
+  color: #C9A55A;
+}
+
+[data-placeholder] p {
+  font-size: var(--text-sm);
+  color: #A8A8A8;
+  max-width: 520px;
+}
+
+/* Ken Burns slow zoom — used in cinematic scroll journey */
+@keyframes kenburns {
+  0%   { transform: scale(1.08); }
+  100% { transform: scale(1.03); }
+}
+
+/* Utility: hide scrollbar while preserving scroll functionality */
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
