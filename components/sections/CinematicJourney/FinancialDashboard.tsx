@@ -27,7 +27,7 @@ export default function FinancialDashboard() {
       {/* Hero Metrics Row */}
       <div className="grid grid-cols-2 md:grid-cols-5 gap-6 mb-12">
         {[
-          { label: "Purchase Price",       val: "$400,000", isGold: false },
+          { label: "Purchase Price",       val: "$280,000", isGold: false },
           { label: "Est. Year 1 Net Rent", val: "$59,400",  isGold: false },
           { label: "Projected ROI",        val: "14.85%",   isGold: true  },
           { label: "Break-Even",           val: "6.7 Yrs",  isGold: false },

@@ -7,7 +7,7 @@ import { ChevronDown } from "lucide-react";
 const EASE = [0.16, 1, 0.3, 1] as const;
 const GOLD = "#C9A55A";
 
-const PROOF_ITEMS = ["8 Villas", "3 Bedrooms", "Private Pool", "Rooftop Terrace", "Est. 14.85% Yield", "25-Year Leasehold"];
+const PROOF_ITEMS = ["8 Villas", "2 Bedrooms", "Private Pool", "Rooftop Terrace", "Est. 14.85% Yield", "25-Year Leasehold"];
 
 const maskReveal: Variants = {
   hidden:   { y: "115%", opacity: 0 },

@@ -5,8 +5,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 
-const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbykMPTc70wBXm4RFjwxVdkVQKhhh_YYqHkkjC37RfvuSaI708lr-cPz72hB7INg9ltl/exec";
+const GOOGLE_SCRIPT_URL = process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL as string;
 
 const GOLD = "#C9A55A";
 

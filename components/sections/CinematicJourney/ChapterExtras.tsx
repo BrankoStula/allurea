@@ -131,8 +131,8 @@ export function VillaFeatures() {
       </p>
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
         {[
-          { icon: BedDouble, label: "3 Ensuite Bedrooms" },
-          { icon: Bath,      label: "3 Bathrooms"        },
+          { icon: BedDouble, label: "2 Ensuite Bedrooms" },
+          { icon: Bath,      label: "2 Bathrooms"        },
           { icon: Waves,     label: "Private Pool"       },
           { icon: Car,       label: "Private Carport"    },
           { icon: Home,      label: "Rooftop Terrace"    },

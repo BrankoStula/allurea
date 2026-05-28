@@ -44,7 +44,7 @@ const CHAPTERS: Chapter[] = [
     num: "03",
     label: "The Villa",
     heading: "Designed for Private Living and High-Performing Rentals",
-    body: "Each villa is configured with three ensuite bedrooms, a private pool, enclosed living areas, and a rooftop terrace, designed to meet the expectations of both residents and short-term guests. The layout prioritizes privacy, functionality, and comfort within 180 m² of optimized built space.",
+    body: "Each villa is configured with two ensuite bedrooms, a private pool, enclosed living areas, and a rooftop terrace, designed to meet the expectations of both residents and short-term guests. The layout prioritizes privacy, functionality, and comfort within 180 m² of optimized built space.",
     imgMain: "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_kitchen_dining.webp",
     hotspots: [
       { top: "70%", left: "50%", label: "Natural Stone Pool" },
@@ -61,7 +61,7 @@ function MobileFinancials() {
     <div className="mt-8 border-t border-cream/10 pt-8">
       <div className="grid grid-cols-2 gap-5 mb-8">
         {[
-          { label: "Purchase Price",   val: "$400,000", gold: false },
+          { label: "Purchase Price",   val: "$280,000", gold: false },
           { label: "Year 1 Net Rent",  val: "$59,400",  gold: false },
           { label: "Projected ROI",    val: "14.85%",   gold: true  },
           { label: "Leasehold",        val: "25 Years", gold: false },
