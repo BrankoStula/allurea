@@ -27,9 +27,9 @@ const CHAPTERS: Chapter[] = [
     label: "The Vision",
     heading: "A Refined Coastal Address in Seseh",
     body: "Eight boutique villas in Seseh, Bali, positioned just minutes from Canggu's most active lifestyle and rental zones. Allurea combines immediate access to the coastline and key demand drivers with a more private, residential environment designed for both living and long-term performance.",
-    imgMain:       "https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_13.webp",
-    imgTopLeft:    "https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_12.webp",
-    imgBottomLeft: "https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_11.webp",
+    imgMain:       "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_facade_night_cars.webp",
+    imgTopLeft:    "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_kitchen_island_stairs.webp",
+    imgBottomLeft: "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_living_stairs_view.webp",
   },
   {
     id: "investment",
@@ -45,7 +45,7 @@ const CHAPTERS: Chapter[] = [
     label: "The Villa",
     heading: "Designed for Private Living and High-Performing Rentals",
     body: "Each villa is configured with three ensuite bedrooms, a private pool, enclosed living areas, and a rooftop terrace, designed to meet the expectations of both residents and short-term guests. The layout prioritizes privacy, functionality, and comfort within 180 m² of optimized built space.",
-    imgMain: "https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_4.webp",
+    imgMain: "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_kitchen_dining.webp",
     hotspots: [
       { top: "70%", left: "50%", label: "Natural Stone Pool" },
       { top: "40%", left: "20%", label: "Enclosed Living"    },

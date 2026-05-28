@@ -60,7 +60,7 @@ export default function InquirySection() {
           className="absolute inset-0 z-0"
         >
           <Image
-            src="https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_13.webp"
+            src="https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_facade_night_cars.webp"
             alt="Luxury Villa"
             fill
             className="object-cover"

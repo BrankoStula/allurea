@@ -9,7 +9,7 @@ const EASE = [0.16, 1, 0.3, 1] as const;
 const GOLD = "#C9A55A";
 
 // Using the EXACT URL from the Planpoint embed script
-const PLANPOINT_BASE_URL = "https://app.planpoint.io/azurea/william";
+const PLANPOINT_BASE_URL = "https://app.planpoint.io/allurea/william?lang=English";
 
 export default function PlanpointSection() {
   const iframeRef = useRef<HTMLIFrameElement>(null);

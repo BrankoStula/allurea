@@ -28,41 +28,41 @@ type GalleryItem = { src: string; label: string; category: Category };
 
 const GALLERY: GalleryItem[] = [
   // ── Exterior ──
-  { src: `${CDN}/azurea_gallery_13.webp`, label: "Villa Exterior",        category: "Exterior"        },
-  { src: `${CDN}/azurea_gallery_4_fixed.webp`, label: "Living Area",       category: "Living & Dining"        },
-  { src: `${CDN}/azurea_gallery_3_fixed.webp`, label: "Living Room",           category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_26.webp`, label: "Rooftop",               category: "Exterior"        },
+  { src: `${CDN}/allurea_masterplan_facade_night_cars.webp`, label: "Villa Exterior",        category: "Exterior"        },
+  { src: `${CDN}/allurea_unit1013_kitchen_living_open.webp`, label: "Living Area",       category: "Living & Dining"        },
+  { src: `${CDN}/allurea_unit1013_living_marble_tv.webp`, label: "Living Room",           category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit9_rooftop_pool_night.webp`, label: "Rooftop",               category: "Exterior"        },
   // ── Living & Dining ──
-  { src: `${CDN}/azurea_gallery_3.webp`,  label: "Living Room",           category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_4.webp`,  label: "Dining Room",           category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_5.webp`,  label: "Kitchen & Living",      category: "Kitchen"         },
-  { src: `${CDN}/azurea_gallery_10.webp`, label: "Dining Area",           category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_11.webp`, label: "Kitchen & Living",      category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_28.webp`, label: "Rooftop",               category: "Exterior"        },
-  { src: `${CDN}/azurea_gallery_29.webp`, label: "Bathroom",              category: "Bathrooms"       },
+  { src: `${CDN}/allurea_unit9_living_room_nook.webp`,  label: "Living Room",           category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit9_kitchen_dining.webp`,  label: "Dining Room",           category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit1013_dining_pendants.webp`,  label: "Kitchen & Living",      category: "Kitchen"         },
+  { src: `${CDN}/allurea_unit1013_dining_pendants.webp`, label: "Dining Area",           category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit1013_living_stairs_view.webp`, label: "Kitchen & Living",      category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit1013_rooftop_pool_aerial.webp`, label: "Rooftop",               category: "Exterior"        },
+  { src: `${CDN}/allurea_unit9_bathroom_dual_mirrors.webp`, label: "Bathroom",              category: "Bathrooms"       },
   // ── Kitchen ──
-  { src: `${CDN}/azurea_gallery_2.webp`,  label: "Kitchen",               category: "Kitchen"         },
-  { src: `${CDN}/azurea_gallery_8.webp`,  label: "Kitchen Island",        category: "Kitchen"         },
-  { src: `${CDN}/azurea_gallery_12.webp`, label: "Kitchen Counter",       category: "Kitchen"         },
+  { src: `${CDN}/allurea_unit1013_kitchen_island_stools.webp`,  label: "Kitchen",               category: "Kitchen"         },
+  { src: `${CDN}/allurea_unit1013_kitchen_island_stools.webp`,  label: "Kitchen Island",        category: "Kitchen"         },
+  { src: `${CDN}/allurea_unit9_kitchen_island_stairs.webp`, label: "Kitchen Counter",       category: "Kitchen"         },
   // ── Pool & Outdoor ──
-  { src: `${CDN}/azurea_gallery_1.webp`,  label: "Rooftop",               category: "Exterior"  },
-  { src: `${CDN}/azurea_gallery_6.webp`,  label: "Private Pool",          category: "Pool & Outdoor"  },
-  { src: `${CDN}/azurea_gallery_7.webp`,  label: "Pool Terrace",          category: "Pool & Outdoor"  },
-  { src: `${CDN}/azurea_gallery_9.webp`,  label: "Pool & Garden",         category: "Pool & Outdoor"  },
-  { src: `${CDN}/azurea_gallery_22.webp`, label: "Bedroom",               category: "Bedrooms"        },
-  { src: `${CDN}/azurea_gallery_25.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_masterplan_aerial_cluster_dusk.webp`,  label: "Rooftop",               category: "Exterior"  },
+  { src: `${CDN}/allurea_unit9_rooftop_pool_aerial.webp`,  label: "Private Pool",          category: "Pool & Outdoor"  },
+  { src: `${CDN}/allurea_unit9_rooftop_pool_night.webp`,  label: "Pool Terrace",          category: "Pool & Outdoor"  },
+  { src: `${CDN}/allurea_masterplan_aerial_pools_dusk.webp`,  label: "Pool & Garden",         category: "Pool & Outdoor"  },
+  { src: `${CDN}/allurea_unit1013_bedroom_arch_floating.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit1013_master_bedroom_dark_arch.webp`, label: "Bedroom",               category: "Bedrooms"        },
   // ── Bedrooms ──
-  { src: `${CDN}/azurea_gallery_16.webp`, label: "Living Room",           category: "Living & Dining" },
-  { src: `${CDN}/azurea_gallery_27.webp`, label: "Rooftop Terrace",       category: "Exterior"        },
+  { src: `${CDN}/allurea_unit1013_corner_sofa_stairs.webp`, label: "Living Room",           category: "Living & Dining" },
+  { src: `${CDN}/allurea_unit9_rooftop_oculus_dining.webp`, label: "Rooftop Terrace",       category: "Exterior"        },
     { src: `${CDN}/azure_gallery_fontain.webp`, label: "Fountain",       category: "Exterior"        },
 
   // ── Bathrooms ──
-  { src: `${CDN}/azurea_gallery_17.webp`, label: "Bedroom",               category: "Bedrooms"        },
-  { src: `${CDN}/azurea_gallery_18.webp`, label: "Bedroom Desk",          category: "Bedrooms"        },
-  { src: `${CDN}/azurea_gallery_20.webp`, label: "Bedroom",               category: "Bedrooms"        },
-  { src: `${CDN}/azurea_gallery_21.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit9_master_bedroom_arch.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit1013_bedroom_tv_desk.webp`, label: "Bedroom Desk",          category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit9_bedroom_slatted_arch.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit1013_bedroom_arch_window.webp`, label: "Bedroom",               category: "Bedrooms"        },
   // ── Rooftop ──
-  { src: `${CDN}/azurea_gallery_19.webp`, label: "Bedroom",               category: "Bedrooms"        },
+  { src: `${CDN}/allurea_unit1013_bedroom_arched_window.webp`, label: "Bedroom",               category: "Bedrooms"        },
 ];
 
 const CATEGORIES: Category[] = ["All", "Exterior", "Living & Dining", "Kitchen", "Pool & Outdoor", "Bedrooms", "Bathrooms"];

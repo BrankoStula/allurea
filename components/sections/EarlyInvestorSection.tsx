@@ -14,7 +14,7 @@ const REASONS = [
     subtitle: "Selection",
     title: "Best Unit Selection",
     body: "Choose your preferred orientation, privacy level, and views before public launch. Early investors access positions not available once marketing opens.",
-    img: `${CDN}/azurea_gallery_26.webp`,
+    img: `${CDN}/allurea_unit9_rooftop_pool_night.webp`,
     stats: [{ label: "Available Units", val: "8" }, { label: "Phase", val: "VIP" }],
   },
   {
@@ -22,7 +22,7 @@ const REASONS = [
     subtitle: "Pricing",
     title: "Lowest Entry Price",
     body: "VIP investors secure units at pre-market pricing — before appreciation driven by public launch activity and broader market exposure.",
-    img: `${CDN}/azurea_gallery_13.webp`,
+    img: `${CDN}/allurea_masterplan_facade_night_cars.webp`,
     stats: [{ label: "Entry Stage", val: "Now" }, { label: "Advantage", val: "~15%" }],
   },
   {
@@ -30,7 +30,7 @@ const REASONS = [
     subtitle: "Structure",
     title: "Flexible Payments",
     body: "Early-stage buyers benefit from phased payment terms and structured commitments not available to post-launch purchasers.",
-    img: `${CDN}/azurea_gallery_6.webp`,
+    img: `${CDN}/allurea_unit9_rooftop_pool_aerial.webp`,
     stats: [{ label: "Payment Phases", val: "3" }, { label: "Terms", val: "Staged" }],
   },
   {
@@ -38,7 +38,7 @@ const REASONS = [
     subtitle: "Access",
     title: "Priority Allocation",
     body: "Secure your position before public competition begins. Once the open marketing phase launches, selection is limited to remaining inventory.",
-    img: `${CDN}/azurea_gallery_4.webp`,
+    img: `${CDN}/allurea_unit9_kitchen_dining.webp`,
     stats: [{ label: "Priority", val: "First" }, { label: "Basis", val: "Confirmed" }],
   },
 ];

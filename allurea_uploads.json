@@ -1,0 +1,295 @@
+{
+  "bucket": "olympus-bali-bucket",
+  "cdn": "https://d1pjqs5r0ua4f1.cloudfront.net",
+  "format": "webp",
+  "quality": 100,
+  "uploadedAt": "2026-05-28",
+  "masterplan": [
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Image_1_enhanced.png",
+      "name": "allurea_masterplan_aerial_cluster_dusk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_aerial_cluster_dusk.webp",
+      "description": "Aerial dusk view of 5-villa cluster surrounded by jungle, rooftop pools visible"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Image_2_enhanced.jpg",
+      "name": "allurea_masterplan_facade_day_palms.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_facade_day_palms.webp",
+      "description": "Daytime twin arched facade with palm trees, white plaster"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Image_2_enhanced.png",
+      "name": "allurea_masterplan_facade_night_cars.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_facade_night_cars.webp",
+      "description": "Night facade lit with sconces, twin villas with cars parked in front"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Image_enhanced.png",
+      "name": "allurea_masterplan_aerial_pools_dusk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_aerial_pools_dusk.webp",
+      "description": "Aerial dusk view showing rooftop pools and pergolas lit, jungle surround"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 1_enhanced.png",
+      "name": "allurea_masterplan_aerial_cluster_rear.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_aerial_cluster_rear.webp",
+      "description": "Aerial rear angle of cluster, lit pools, palm trees, jungle"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 4_1_enhanced.png",
+      "name": "allurea_masterplan_topdown_4villas.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_topdown_4villas.webp",
+      "description": "Top-down birdseye view of 4 villas with private pools and oculus skylights"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 6_1_enhanced.png",
+      "name": "allurea_masterplan_row_facade_dusk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_row_facade_dusk.webp",
+      "description": "Row of villa arched facades at dusk, lit, palm tree, car visible"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 7_enhanced.png",
+      "name": "allurea_masterplan_angled_facade_palms.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_angled_facade_palms.webp",
+      "description": "Angled facade with rhythmic arches lit by sconces, palm trees, dusk sky"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 10_enhanced.png",
+      "name": "allurea_masterplan_aerial_pools_side.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_aerial_pools_side.webp",
+      "description": "Aerial side angle showing rooftop pools and lounge areas, lit at dusk"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 11_enhanced.png",
+      "name": "allurea_masterplan_aerial_terraces_lit.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_aerial_terraces_lit.webp",
+      "description": "Aerial rear view with stepped terraces, lit pools, jungle backdrop"
+    },
+    {
+      "source": "MASTERPLAN/MASTERPLAN/Scene 12_enhanced.png",
+      "name": "allurea_masterplan_ground_arch_detail.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_ground_arch_detail.webp",
+      "description": "Ground-level detail of double-height arched window and sconces at dusk"
+    }
+  ],
+  "unit9": [
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Image_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_arch_hallway.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_arch_hallway.webp",
+      "description": "Arched window hallway with sheer curtain, dining chair, jungle view"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 25_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_courtyard_ivy_night.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_courtyard_ivy_night.webp",
+      "description": "Side courtyard at night, ivy wall, sectional sofa, uplit sconces"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 27_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_kitchen_dining.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_kitchen_dining.webp",
+      "description": "Kitchen + dining island with amber pendant lights, marble accents"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 28_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_living_room_garden_view.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_living_room_garden_view.webp",
+      "description": "Living room with sofa facing sheer curtained doors to jungle garden"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 29_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_courtyard_ivy_dusk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_courtyard_ivy_dusk.webp",
+      "description": "Courtyard ivy wall sectional sofa, uplit sconces at dusk"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 30_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_side_garden_palm.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_side_garden_palm.webp",
+      "description": "Side garden alley with palm, ivy, fan palm planters, wood deck"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 32_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_kitchen_island_stairs.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_kitchen_island_stairs.webp",
+      "description": "Wide kitchen with marble island, slatted staircase, arched window dining area"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 33_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_living_room_nook.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_living_room_nook.webp",
+      "description": "Living room sectional sofa, curved nook shelves, painting, slatted stairs"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 34_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_dining_stairs_arch.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_dining_stairs_arch.webp",
+      "description": "Dining area with slatted staircase backdrop and arched door"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 36_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_master_bedroom_arch.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_master_bedroom_arch.webp",
+      "description": "Master bedroom with slatted arched headboard wall, wood arched door, palm view"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 37_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_bedroom_slatted_arch.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_bedroom_slatted_arch.webp",
+      "description": "Bedroom with slatted wood arched headboard, pendant, jungle window"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 38_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_bathroom_dual_mirrors.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_bathroom_dual_mirrors.webp",
+      "description": "Bathroom with dual oval mirrors, mosaic-tiled walk-in shower"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 41_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_bedroom_slatted_headboard.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_bedroom_slatted_headboard.webp",
+      "description": "Smaller bedroom, arched slatted-wood headboard, twin floating nightstands"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 44_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_rooftop_oculus_dining.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_rooftop_oculus_dining.webp",
+      "description": "Rooftop covered dining area beneath round oculus skylight, palm view"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 45_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_rooftop_pool_aerial.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_rooftop_pool_aerial.webp",
+      "description": "Aerial of private rooftop terrace with infinity pool, lounge sofa, dining"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 9/Scene 46_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit9_rooftop_pool_night.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit9_rooftop_pool_night.webp",
+      "description": "Rooftop pool at night, lit sconces, lounge sofa, dining table"
+    }
+  ],
+  "unit1013": [
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/1_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_kitchen_living_open.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_kitchen_living_open.webp",
+      "description": "Open kitchen + living + dining, marble TV wall, pendant lights, arc floor lamp"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/2_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_living_marble_tv.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_living_marble_tv.webp",
+      "description": "Living room with marble TV wall, vase shelving, sectional, arc floor lamp"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/3_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_dining_pendants.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_dining_pendants.webp",
+      "description": "Dining table with amber pendants over kitchen island"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/4_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_kitchen_island_stools.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_kitchen_island_stools.webp",
+      "description": "Walnut kitchen island with bar stools, lit niche shelving"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/6_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_tv_marble_niche.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_tv_marble_niche.webp",
+      "description": "TV mounted on marble wall, niche shelves with vases, sideboard with lamps"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/7_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_living_stairs_view.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_living_stairs_view.webp",
+      "description": "Open living + dining with slatted wood staircase, marble table, arched door"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/8_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_corner_sofa_stairs.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_corner_sofa_stairs.webp",
+      "description": "Corner sofa with marble coffee table, slatted wood stairs, lit niches"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/9_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_dining_stairs.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_dining_stairs.webp",
+      "description": "Dining table with pendants, slatted wood staircase + arched door behind"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/10_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_stairs_arch_door.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_stairs_arch_door.webp",
+      "description": "Empty hall with slatted wood staircase and arched wood door"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/11_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_workspace_stairs.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_workspace_stairs.webp",
+      "description": "Compact workspace nook with desk and chair, curved stairs and wood panel feature"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/12_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_bedroom_arch_floating.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_bedroom_arch_floating.webp",
+      "description": "Bedroom with floating bed, slatted arched headboard, amber pendant lights"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/13_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_bedroom_arch_window.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_bedroom_arch_window.webp",
+      "description": "Bedroom with slatted headboard arch, wood arched door, full-height window with jungle"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/14_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_bedroom_tv_desk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_bedroom_tv_desk.webp",
+      "description": "Bedroom with floating bed, slatted arched headboard, opposite TV + desk wall"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/15_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_master_bedroom_dark_arch.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_master_bedroom_dark_arch.webp",
+      "description": "Master bedroom, dark slatted arch headboard, twin pendant lights"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/16_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_bedroom_arched_window.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_bedroom_arched_window.webp",
+      "description": "Bedroom, large arched window with sheer curtains, slatted feature wall, TV"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/17_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_rooftop_dining_dusk.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_rooftop_dining_dusk.webp",
+      "description": "Rooftop covered dining nook with table + chairs at dusk, palm canopy view"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/18_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_rooftop_oculus_kitchen.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_rooftop_oculus_kitchen.webp",
+      "description": "Rooftop dining beneath round oculus skylight with outdoor kitchen + arched door"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/19_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_rooftop_pool_aerial.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_rooftop_pool_aerial.webp",
+      "description": "Aerial of rooftop with infinity pool, oculus skylight, dining nook"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/20_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_living_back_window.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_living_back_window.webp",
+      "description": "Living room rear view, sectional facing sheer-curtained window, TV and floor lamps"
+    },
+    {
+      "source": "INTERIOR/INTERIOR/UNIT 10-13/21_enhanced-topaz-upscale-1.7x.png",
+      "name": "allurea_unit1013_living_vases_window.webp",
+      "url": "https://d1pjqs5r0ua4f1.cloudfront.net/allurea_unit1013_living_vases_window.webp",
+      "description": "Living room with TV sideboard, lit vase niche shelves, sheer-curtained window"
+    }
+  ]
+}

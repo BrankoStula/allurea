@@ -35,7 +35,7 @@ export const ARCH_SPACES = [
     id: "rooftop",
     label: "Rooftop Terrace",
     icon: Sun,
-    mainImg: `${CDN}/azurea_gallery_26.webp`,
+    mainImg: `${CDN}/allurea_unit9_rooftop_pool_night.webp`,
     desc: "Designed for sunset viewing and private entertaining. Open volumes and warm natural tones define the atmosphere — a seamless transition between sky, structure, and landscape.",
     materials: [
       { name: "Open Volume",     position: "top-10 left-10",    layout: "right" as const },
@@ -46,7 +46,7 @@ export const ARCH_SPACES = [
     id: "pool",
     label: "Private Pool & Deck",
     icon: Waves,
-    mainImg: `${CDN}/azurea_gallery_6.webp`,
+    mainImg: `${CDN}/allurea_unit9_rooftop_pool_aerial.webp`,
     desc: "A completely private tropical oasis. Cool stone underfoot, lush landscaping on all sides, and a deep azure water feature designed for year-round use.",
     materials: [
       { name: "Organic Texture", position: "top-10 right-10",   layout: "left" as const },
@@ -57,7 +57,7 @@ export const ARCH_SPACES = [
     id: "living",
     label: "Enclosed Living",
     icon: Home,
-    mainImg: `${CDN}/azurea_gallery_3.webp`,
+    mainImg: `${CDN}/allurea_unit9_living_room_nook.webp`,
     desc: "Climate-controlled comfort meets indoor-outdoor flow. Full-height glazing maximizes natural light and blurs the boundary between interior space and the garden beyond.",
     materials: [
       { name: "Biophilic Flow",   position: "top-10 left-10",    layout: "right" as const },
@@ -68,7 +68,7 @@ export const ARCH_SPACES = [
     id: "bath",
     label: "Luxury Ensuites",
     icon: Bath,
-    mainImg: `${CDN}/azurea_gallery_29.webp`,
+    mainImg: `${CDN}/allurea_unit9_bathroom_dual_mirrors.webp`,
     desc: "Spa-inspired sanctuaries with deep soaking tubs and rain showers. Designed around calm, tactile surfaces that reward slowing down.",
     materials: [
       { name: "Calm Surfaces",   position: "top-10 right-10",   layout: "left" as const },

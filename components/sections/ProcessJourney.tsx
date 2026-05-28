@@ -28,7 +28,7 @@ const STEPS: Step[] = [
       "Priority access before public launch",
     ],
     Icon: KeyRound,
-    img: `${CDN}/azurea_gallery_5.webp`,
+    img: `${CDN}/allurea_unit1013_dining_pendants.webp`,
   },
   {
     num: "02", label: "Legal Structuring", phase: "Legal Phase",
@@ -40,7 +40,7 @@ const STEPS: Step[] = [
       "Notarised documentation & compliance handling",
     ],
     Icon: FileCheck,
-    img: `${CDN}/azurea_gallery_13.webp`,
+    img: `${CDN}/allurea_masterplan_facade_night_cars.webp`,
   },
   {
     num: "03", label: "Construction Delivery", phase: "Build Phase",
@@ -52,7 +52,7 @@ const STEPS: Step[] = [
       "Quality checks from groundbreak to handover",
     ],
     Icon: Building2,
-    img: `${CDN}/azurea_gallery_12.webp`,
+    img: `${CDN}/allurea_unit9_kitchen_island_stairs.webp`,
   },
   {
     num: "04", label: "Turnkey Handover", phase: "Completion",
@@ -64,7 +64,7 @@ const STEPS: Step[] = [
       "Guest-ready on the agreed handover date",
     ],
     Icon: PackageCheck,
-    img: `${CDN}/azurea_gallery_6.webp`,
+    img: `${CDN}/allurea_unit9_rooftop_pool_aerial.webp`,
   },
   {
     num: "05", label: "Rental Management", phase: "Income Phase",
@@ -76,7 +76,7 @@ const STEPS: Step[] = [
       "Monthly income reporting & owner disbursements",
     ],
     Icon: BarChart3,
-    img: `${CDN}/azurea_gallery_9.webp`,
+    img: `${CDN}/allurea_masterplan_aerial_pools_dusk.webp`,
   },
 ];
 

@@ -33,7 +33,7 @@ export default function Hero() {
       {/* Background video */}
       <video
         autoPlay loop muted playsInline
-        poster="https://d1pjqs5r0ua4f1.cloudfront.net/azurea_gallery_13.webp"
+        poster="https://d1pjqs5r0ua4f1.cloudfront.net/allurea_masterplan_facade_night_cars.webp"
         className="absolute inset-0 w-full h-full object-cover z-0"
         style={{ opacity: 0.75 }}
       >

@@ -101,10 +101,10 @@ const SUBSECTIONS: SubSection[] = [
     shortLabel: "Overview",
     title: "A Private Coastal Enclave",
     body: "Allurea is located in Seseh, one of Bali's fastest-growing coastal areas, offering a more private and residential environment just minutes from Canggu. This positioning provides direct access to the island's most active lifestyle and rental zones while maintaining a quieter, more refined setting.",
-    images: [`${CDN}/azurea_gallery_13.webp`, `${CDN}/azurea_gallery_12.webp`, `${CDN}/azurea_gallery_3.webp`],
+    images: [`${CDN}/allurea_masterplan_facade_night_cars.webp`, `${CDN}/allurea_unit9_kitchen_island_stairs.webp`, `${CDN}/allurea_unit9_living_room_nook.webp`],
     camera: { longitude: 115.129046, latitude: -8.610440, zoom: 14.5, pitch: 50, bearing: 0 },
     pois: [
-      { label: "Allurea", longitude: 115.129046, latitude: -8.610440, type: "project", images: [`${CDN}/azurea_gallery_1.webp`] },
+      { label: "Allurea", longitude: 115.129046, latitude: -8.610440, type: "project", images: [`${CDN}/allurea_masterplan_aerial_cluster_dusk.webp`] },
     ],
   },
   {
@@ -116,7 +116,7 @@ const SUBSECTIONS: SubSection[] = [
     images: [`${CDN}/canggu_beach.webp`, `${CDN}/canggu_beach_club.webp`],
     camera: { longitude: 115.130364, latitude: -8.659627, zoom: 12.5, pitch: 35, bearing: -12 },
     pois: [
-      { label: "Allurea",       longitude: 115.129046,  latitude: -8.610440,           type: "project", images: [`${CDN}/azurea_gallery_3.webp`, `${CDN}/azurea_gallery_5.webp`] },
+      { label: "Allurea",       longitude: 115.129046,  latitude: -8.610440,           type: "project", images: [`${CDN}/allurea_unit9_living_room_nook.webp`, `${CDN}/allurea_unit1013_dining_pendants.webp`] },
       { label: "Seseh Beach",  longitude: 115.1142204, latitude: -8.647293534681705,  type: "beach",   images: [`${CDN}/canggu_beach.webp`] },
       { label: "Canggu Beach", longitude: 115.130364,  latitude: -8.659627,           type: "beach",   images: [`${CDN}/canggu_beach.webp`, `${CDN}/canggu_beach_club.webp`] },
     ],
@@ -130,7 +130,7 @@ const SUBSECTIONS: SubSection[] = [
     images: [`${CDN}/omni_real.webp`, `${CDN}/nirvana_real.webp`, `${CDN}/open_house_seseh.webp`],
     camera: { longitude: 115.148, latitude: -8.638, zoom: 14, pitch: 60, bearing: 18 },
     pois: [
-      { label: "Allurea",              longitude: 115.129046,          latitude: -8.610440,           type: "project", images: [`${CDN}/azurea_gallery_1.webp`] },
+      { label: "Allurea",              longitude: 115.129046,          latitude: -8.610440,           type: "project", images: [`${CDN}/allurea_masterplan_aerial_cluster_dusk.webp`] },
       { label: "OMNI",               longitude: 115.12326167791198, latitude: -8.622796844965022, type: "surf",    images: [`${CDN}/omni_real.webp`] },
       { label: "Nirvana Life Fitness", longitude: 115.15445935490021, latitude: -8.64249459676792,  type: "surf",    images: [`${CDN}/nirvana_real.webp`] },
       { label: "Bali MMA",           longitude: 115.155898,          latitude: -8.641557,           type: "surf",    images: [`${CDN}/bali_mma.webp`] },
