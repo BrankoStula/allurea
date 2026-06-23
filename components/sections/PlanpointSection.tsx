@@ -3,12 +3,12 @@
 
 import React, { useRef, useState } from 'react';
 import { motion, useInView, type Variants } from 'framer-motion';
-import { Maximize2, ArrowRight } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 
 const GOLD = "#C9A55A";
 
 // The base URL packed with parameters for a clean Black, White, and Transparent UI
-const PLANPOINT_BASE_URL = "https://app.planpoint.io/allurea/william?lang=English";
+const PLANPOINT_BASE_URL = "https://www.royalbaligroup.com/plans/allurea-pp";
 
 export default function PlanpointSection() {
   const containerRef = useRef(null);
@@ -88,20 +88,6 @@ export default function PlanpointSection() {
             className="w-full bg-brand-black border-b border-cream/10"
           >
             <div className="relative w-full h-[65vh] lg:h-[80vh] min-h-[500px] bg-brand-black overflow-hidden">
-              
-              {/* Location label Overlay */}
-              <div className="absolute top-5 left-5 z-30 pointer-events-none flex flex-col gap-1">
-                <span className="text-[10px] uppercase tracking-[0.3em] text-cream/70 drop-shadow-md">Allurea</span>
-                <span className="text-[9px] uppercase tracking-widest text-cream/40 drop-shadow-md">Seseh, Bali</span>
-              </div>
-
-              {/* Interactive badge Overlay */}
-              <div className="absolute bottom-5 right-5 z-30 pointer-events-none">
-                <div className="flex items-center gap-2 bg-brand-black/50 px-3 py-1.5 backdrop-blur-md border border-cream/10 rounded-sm">
-                  <Maximize2 size={12} className="text-cream/60" />
-                  <span className="text-[9px] uppercase tracking-widest text-cream/70">Interactive 3D</span>
-                </div>
-              </div>
 
               {/* Custom Loader Overlay */}
               {isIframeLoading && (
